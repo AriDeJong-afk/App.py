@@ -1,0 +1,8 @@
+@app.route("/")
+def home():
+    return """
+    <h1 style="font-size:50px; text-align:center; color:blue;">
+        RADIT FUAD ASLI JAWIRR 
+    </h1>
+    <p style="text-align:center;">Jawa jawa jawa jawa jawa</p>
+    """
